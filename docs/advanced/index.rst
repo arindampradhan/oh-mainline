@@ -10,6 +10,7 @@ you should definitely do so!
 
     advanced_installation
     layout_source_code
+    working_with_git
     deployment
     heroku
     maintenance
